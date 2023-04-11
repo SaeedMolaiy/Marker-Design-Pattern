@@ -1,0 +1,15 @@
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\bin\Debug\net7.0\Marker-Design-Pattern.exe
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\bin\Debug\net7.0\Marker-Design-Pattern.deps.json
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\bin\Debug\net7.0\Marker-Design-Pattern.runtimeconfig.json
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\bin\Debug\net7.0\Marker-Design-Pattern.dll
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\bin\Debug\net7.0\Marker-Design-Pattern.pdb
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.csproj.AssemblyReference.cache
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.AssemblyInfoInputs.cache
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.AssemblyInfo.cs
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.dll
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\refint\Marker-Design-Pattern.dll
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.pdb
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\Marker-Design-Pattern.genruntimeconfig.cache
+C:\Users\s.molaee.KNR\source\repos\Marker-Design-Pattern\Marker-Design-Pattern\obj\Debug\net7.0\ref\Marker-Design-Pattern.dll
